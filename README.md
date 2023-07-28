@@ -1,1 +1,1 @@
-# Multi-Step form using React.js+ SASS (frontend mentor challenge Advanced).
+# Multi-Step form using React.js+ Redux toolkit+ SASS (frontend mentor challenge Advanced).
